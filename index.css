@@ -1,0 +1,27 @@
+div {
+  text-align: center;
+}
+.head {
+  color: #000000;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-weight: 700;
+  font-size: 80px;
+  margin: 53.6px 0px;
+}
+.par {
+  color: #000000;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 35px;
+  margin: 35px 0px;
+  font-weight: 400;
+}
+
+.btn {
+  width: 250px;
+  height: 80px;
+  background-color: blue;
+  color: white;
+}
+.btn:hover {
+  background-color: green;
+}
